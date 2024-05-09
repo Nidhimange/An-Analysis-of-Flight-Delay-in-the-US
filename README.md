@@ -8,4 +8,4 @@
                        cleaning, data analysis, and the application of statistical methods to real-world problems. This project also enhanced my ability to interpret 
                        analytical results into actionable business strategies.
  - **Keywords:** Data Visualization, Flight Delay Analysis, Statistical Analysis, BTS Data, Tableau
- - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\An Analysis of Flight Delay in the US)
+ - [**View Repo**] [MSBA 250-Report.docx](https://github.com/Nidhimange/Nidhi-Mange/files/15256519/MSBA.250-Report.docx)
